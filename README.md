@@ -47,3 +47,18 @@ Dark Mode:
 ```
   dark:bg-red-400
 ```
+
+# Student Profile
+
+unqueId
+rollNo
+Name 
+class
+semester
+password
+email
+phone number
+subjects Enrolled in(array)
+subject wise previous score(array)
+subject wise average time taken(array)
+accuracy of student in each subject(array)
